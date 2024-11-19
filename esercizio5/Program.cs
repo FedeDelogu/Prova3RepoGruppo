@@ -72,5 +72,8 @@ var tot = Professori.OrderBy(coppia => coppia.Max());
 Console.WriteLine($"{PiuStudenti} {massimo}");
 
 
+Console.WriteLine("scemo chi legge");
+Console.WriteLine("eccoci");
+
 //FINE ESERCIZIO
 
